@@ -42,4 +42,4 @@ python3 nmap_parser.py <xml file name>
 ## Screenshot
 **NOTE:** The below screenshot is just for demonstration purpose, showing the sorted output with color codes expressing levels of severity.
 
-![]()
+![](https://raw.githubusercontent.com/Vibhu025/Nmap2CSV/master/output.png)
